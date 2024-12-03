@@ -43,9 +43,6 @@ app.use('/',passportroute)
 app.use('/',razorpayroute)
 
 
-
-
-
 app.listen(3005, () => {
     console.log('Server connected');
   });

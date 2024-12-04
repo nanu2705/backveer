@@ -5,7 +5,7 @@ import fs from 'fs';
 const app = express();
 
 
-app.post('/api/reviews', (req, res) => {
+app.post('/reviews', (req, res) => {
     const newReview = req.body; 
 
     fs.readFile(filePath, 'utf8', (err, data) => {

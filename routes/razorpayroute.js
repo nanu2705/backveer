@@ -1,4 +1,3 @@
-
 import express from "express";
 import dotenv from "dotenv";
 import Razorpay from "razorpay";
@@ -16,7 +15,8 @@ app.post("/razorpay", async (req, res) => {
   const { amount } = req.body;
  
   const options = {
-    amount: amount * 100, 
+    amount: amount * 100, // Convert amount to smallest currency unit (e.g., paise for INR)
+    currency: 'INR',
     receipt: "receipt#1",
     payment_capture: '1'
   };

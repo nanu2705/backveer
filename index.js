@@ -8,6 +8,7 @@ import Inquiryroute from "./routes/Inquiryroute.js"
 import newsletterroute from  "./routes/newsletterroute.js"
 import passportroute from "./routes/passportroute.js"
 import razorpayroute from "./routes/razorpayroute.js"
+import reviewroute from "./routes/reviewroute.js"
 import datas from "./routes/Api/data.js"
 import faq from "./routes/Api/faq.js"
 import reviews from "./routes/Api/reviews.js"
@@ -41,6 +42,8 @@ app.use('/', Inquiryroute)
 app.use('/', newsletterroute)
 app.use('/',passportroute)
 app.use('/',razorpayroute)
+app.use('/',reviewroute)
+
 
 
 app.listen(3005, () => {

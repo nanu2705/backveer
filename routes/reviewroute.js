@@ -1,20 +1,34 @@
+
 import express from 'express';
-import Review from '../models/Review.js';
+import fs from 'fs';
 
 const app = express();
 
-app.post('/reviewform', async (req, res) => {
-    try {
-        const { name,email,review,rating} = req.body;
 
-        const reviewData = await Review.create({name,email,review,rating});
+app.post('/api/reviews', (req, res) => {
+    const newReview = req.body; 
 
-        console.log(reviewData)
-        res.json({ success: true, message: 'Thanks for your inquiry' });
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error('Error reading reviews:', err);
+            return res.status(500).json({ error: 'Internal Server Error' });
+        }
+        try {
+            const reviews = JSON.parse(data);
+            reviews.push(newReview); 
 
-    } catch (error) {
-        console.error(error);
-        res.status(500).send('Internal server error');
-    }
+            fs.writeFile(filePath, JSON.stringify(reviews, null, 2), 'utf8', (writeErr) => {
+                if (writeErr) {
+                    console.error('Error writing to reviews file:', writeErr);
+                    return res.status(500).json({ error: 'Internal Server Error' });
+                }
+                return res.json({ success: true, message: 'Review added successfully' });
+            });
+        } catch (parseError) {
+            console.error('Error parsing reviews:', parseError);
+            return res.status(500).json({ error: 'Internal Server Error' });
+        }
+    });
 });
+
 export default app;

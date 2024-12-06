@@ -1114,7 +1114,7 @@
         "id": 4,
         "name": "ocr",
         "title": "OCR",
-        "desc": " We provide advanced OCR (Optical Character Recognition) services to seamlessly convert printed text from images, scanned documents, or PDFs into editable digital formats",
+        "desc": " We provide advanced OCR (Optical Character Recognition) services to convert printed text from images, scanned documents, or PDFs into editable digital formats",
         "icon": "/flaticons/ocr.png",
         "country": [
             {

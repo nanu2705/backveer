@@ -1112,19 +1112,19 @@
     },
     {
         "id": 4,
-        "name": "ocr",
-        "title": "OCR",
-        "desc": " We provide advanced OCR (Optical Character Recognition) services to convert printed text from images, scanned documents, or PDFs into editable digital formats",
-        "icon": "/flaticons/ocr.png",
+        "name": "oci",
+        "title": "OCI",
+        "desc": "We provide expert assistance for OCI applications, simplifying the process with guidance on eligibility, documentation, and submission in hassle-free .",
+        "icon": "/flaticons/oci.jpg",
         "country": [
             {
                 "id": 1,
-                "name": "ocr",
-                "title": "OCR",
+                "name": "oci",
+                "title": "OCI",
                 
-                "img": "/flaticons/ocr.png",
+                "img": "/flaticons/oci.jpg",
                 "details": [
-                    "Convert printed or handwritten text from images, PDFs, or scanned documents into editable digital formats with high accuracy. Simplify workflows and boost efficiency. Contact us for help!"
+                    "Streamline your Overseas Citizenship of India (OCI) application process with expert guidance on eligibility, documentation, and submission. Simplify the steps and ensure accuracy with our support. Contact us for assistance!"
                 ]
                
             }

@@ -785,6 +785,92 @@
                     "Medical Exam (if applicable)",
                     "Home Ties"
                 ]
+            },
+            {
+                "id": 9,
+                "name": "philippines",
+                "title": "Philippines",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":1000
+                },
+                "countryImages": [
+                    "/innerimg/phili1.jpg",
+                    "/innerimg/phili2.jpg",
+                    "/innerimg/phili3.jpg",
+                    "/innerimg/phili4.jpg",
+                    "/innerimg/phili5.jpg"
+                ],
+                "pricing": {
+                        "price": 0
+                },
+                "img": "/flags/philippines.png",
+                "documents": [
+                    "Passport",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Appointment Confirmation",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Home Ties"
+                ],
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 10,
+                "name": "thailand",
+                "title": "Thailand",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":7499
+                },
+                "countryImages": [
+                    "/innerimg/thai1.jpg",
+                    "/innerimg/thai2.jpg",
+                    "/innerimg/thai3.jpg",
+                    "/innerimg/thai4.jpg",
+                    "/innerimg/thai5.jpg"
+                ],
+                "pricing": {
+                        "price": 10000
+                },
+                "img": "/flags/thailand.jpg",
+                "documents": [
+                    "Passport",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Appointment Confirmation",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Home Ties"
+                ],
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
             }
         ]
     },
@@ -1335,6 +1421,25 @@
                 "id": 1,
                 "name": "newspaper-ads",
                 "title": "Newspaper Ads",
+                "img": "/flaticons/newspaperadd.png",
+                "details": [
+                   "Get your message noticed with our newspaper advertising services. We help you craft the perfect ad and ensure it reaches your target audience.",
+                   "Have questions? Our team is ready to help with all your inquiries. Get in touch now for fast support."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "itr",
+        "title": "ITR",
+        "desc": "Effective newspaper advertisement solutions which required",
+        "icon": "/flaticons/newspaper.png",
+        "country": [
+            {
+                "id": 1,
+                "name": "itr",
+                "title": "ITR",
                 "img": "/flaticons/newspaperadd.png",
                 "details": [
                    "Get your message noticed with our newspaper advertising services. We help you craft the perfect ad and ensure it reaches your target audience.",

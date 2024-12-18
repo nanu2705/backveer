@@ -795,7 +795,7 @@
                     "lengthOfStay": "90 days",
                     "validity": "3 years",
                     "entry": "Multiple",
-                    "entryprice":1000
+                    "entryprice":0
                 },
                 "countryImages": [
                     "/innerimg/phili1.jpg",
@@ -805,7 +805,7 @@
                     "/innerimg/phili5.jpg"
                 ],
                 "pricing": {
-                        "price": 0
+                        "price": 10000
                 },
                 "img": "/flags/philippines.png",
                 "documents": [

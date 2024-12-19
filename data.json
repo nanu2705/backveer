@@ -1433,14 +1433,14 @@
         "id": 16,
         "name": "itr",
         "title": "ITR",
-        "desc": "Effective newspaper advertisement solutions which required",
-        "icon": "/flaticons/newspaper.png",
+        "desc": "Income Tax Return is a form to report income,deductions and taxes to the government, ensuring compliance and enabling tax refunds.",
+        "icon": "/flaticons/itr.jpg",
         "country": [
             {
                 "id": 1,
                 "name": "itr",
                 "title": "ITR",
-                "img": "/flaticons/newspaperadd.png",
+                "img": "/flaticons/newitr.jpg",
                 "details": [
                    "Get your message noticed with our newspaper advertising services. We help you craft the perfect ad and ensure it reaches your target audience.",
                    "Have questions? Our team is ready to help with all your inquiries. Get in touch now for fast support."

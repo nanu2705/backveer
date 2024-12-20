@@ -43,7 +43,7 @@ app.post('/news', upload.single("document"), async (req, res) => {
   try {
   
     const news = await News.create({
-      adtype,
+      adtype,   
       language,
       mobileNo,
       content,

@@ -10,6 +10,7 @@ import passportroute from "./routes/passportroute.js"
 import razorpayroute from "./routes/razorpayroute.js"
 import reviewroute from "./routes/reviewroute.js"
 import itrroute from "./routes/itrroute.js"
+import newsroute from "./routes/newsroute.js"
 import datas from "./routes/Api/data.js"
 import faq from "./routes/Api/faq.js"
 import reviews from "./routes/Api/reviews.js"
@@ -45,6 +46,7 @@ app.use('/',passportroute)
 app.use('/',razorpayroute)
 app.use('/',reviewroute)
 app.use('/',itrroute)
+app.use('/',newsroute)
 
 
 

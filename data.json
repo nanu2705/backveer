@@ -871,6 +871,92 @@
                     "Medical Exam (if applicable)",
                     "Home Ties"
                 ]
+            },
+            {
+                "id": 11,
+                "name": "malaysia",
+                "title": "Malaysia",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "90 days",
+                    "validity": "3 years",
+                    "entry": "Multiple",
+                    "entryprice":7499
+                },
+                "countryImages": [
+                    "/city/malay1.jpg",
+                    "/city/malay2.jpg",
+                    "/city/malay3.jpg",
+                    "/city/malay4.jpg",
+                    "/city/malay5.jpg"
+                ],
+                "pricing": {
+                        "price": 3500
+                },
+                "img": "/flags/malaysia.jpg",
+                "documents": [
+                    "Passport",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Appointment Confirmation",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Home Ties"
+                ],
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
+            },
+            {
+                "id": 10,
+                "name": "singapore",
+                "title": "Singapore",
+                "visaInformation": {
+                    "visaType": "E-visa",
+                    "lengthOfStay": "30 days",
+                    "validity": "3 years",
+                    "entry": "Single",
+                    "entryprice":7499
+                },
+                "countryImages": [
+                    "/city/singa1.jpg",
+                    "/city/singa2.jpg",
+                    "/city/singa3.jpg",
+                    "/city/singa4.jpg",
+                    "/city/singa5.jpg"
+                ],
+                "pricing": {
+                        "price": 6550
+                },
+                "img": "/flags/singapore.jpg",
+                "documents": [
+                    "Passport",
+                    "DS-160 Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Appointment Confirmation",
+                    "Financial Proof",
+                    "Itinerary",
+                    "Home Ties"
+                ],
+                "details": [
+                    "Passport",
+                    "Study Permit Application Form",
+                    "Fee Receipt",
+                    "Photo",
+                    "Letter of Acceptance",
+                    "Financial Proof",
+                    "Medical Exam (if applicable)",
+                    "Home Ties"
+                ]
             }
         ]
     },

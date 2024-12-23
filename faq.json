@@ -1,24 +1,65 @@
-
 [
+  {
+    "id": 1,
+    "question": "What type of consultancy services do you provide for visa application?",
+    "answer": "We offer a range of consultancy services tailored to business development, legal advice, financial planning, and strategic growth. Our team is skilled in both domestic and international markets, providing clients with actionable insights and tailored solutions."
+  },
+  {
+    "id": 2,
+    "question": "How experienced is your team in visa processing?",
+    "answer": "Our team consists of professionals with extensive experience in their respective fields, holding qualifications and accreditations relevant to our areas of consultancy. Many of our consultants have over 10 years of experience in business, finance, and strategic advisory roles."
+  },
+  {
+    "id": 3,
+    "question": "Can you expedite passport and visa applications?",
+    "answer": "Yes, we offer expedited services for urgent cases. Processing times vary by country and type of application, so please contact us as soon as possible if you need an expedited service."
+  },
+  {
+    "id": 4,
+    "question": "What documents do I need for a passport or visa application?",
+    "answer": "Document requirements vary depending on the type of application and your country of citizenship. Generally, you’ll need proof of identity, proof of citizenship, and passport-sized photos. We provide a detailed checklist for each application to ensure you have everything you need."
+  },
+  {
+    "id": 5,
+    "question": "Can I choose a specific newspaper for my ad?",
+    "answer": "Yes, you can select from a wide variety of local, national, and international newspapers when booking your ad."
+  },
+  {
+    "id": 6,
+    "question": "What if I need help designing my ad?",
+    "answer": "Our team of professional designers can assist you in creating a visually appealing and effective ad that meets your specifications and goals."
+  },
+  {
+    "id": 7,
+    "question": "What is the cost of placing an ad in a newspaper?",
+    "answer": "The cost varies based on the newspaper, ad size, placement, and duration. We provide a detailed cost estimate before finalizing your booking."
+  },
+  [
     {
-        "id":1,
-      "question": "What type of consultancy services do you provide?",
-      "answer":"We offer a range of consultancy services tailored to business development, legal advice, financial planning, and strategic growth. Our team is skilled in both domestic and international markets, providing clients with actionable insights and tailored solutions."
+      "id": 8,
+      "question": "How long does it take to process a passport application?",
+      "answer": "The processing time for a passport application varies depending on the type of service and the country of application. Standard processing usually takes between 4 to 6 weeks, while expedited services can reduce the processing time to 1-2 weeks."
     },
     {
-        "id":2,
-      "question": "How experienced is your team?",
-      "answer":"Our team consists of professionals with extensive experience in their respective fields, holding qualifications and accreditations relevant to our areas of consultancy. Many of our consultants have over 10 years of experience in business, finance, and strategic advisory roles."
+      "id": 9,
+      "question": "Can I apply for a passport renewal online?",
+      "answer": "Yes, in many countries, you can apply for passport renewal online if your previous passport is still valid or expired within the last 5 years. However, certain conditions may require an in-person visit. We can assist you in determining the best renewal method."
     },
     {
-        "id":3,
-      "question": "Can you expedite passport and visa applications?",
-      "answer":"Yes, we offer expedited services for urgent cases. Processing times vary by country and type of application, so please contact us as soon as possible if you need an expedited service."
+      "id": 10,
+      "question": "Do you assist with passport name changes?",
+      "answer": "Yes, we assist with passport name changes, which can be required after marriage, divorce, or legal name adjustments. We provide guidance on the necessary documentation and the process involved in updating your passport details."
     },
     {
-        "id":4,
-      "question": "What documents do I need for a passport or visa application?",
-      "answer":"Document requirements vary depending on the type of application and your country of citizenship. Generally, you’ll need proof of identity, proof of citizenship, and passport-sized photos. We provide a detailed checklist for each application to ensure you have everything you need."
+      "id": 11,
+      "question": "What if my passport application is denied?",
+      "answer": "If your passport application is denied, we will help you understand the reasons behind the denial and guide you through the process of reapplying. This may involve correcting errors or providing additional supporting documents."
+    },
+    {
+      "id": 12,
+      "question": "How can I track the status of my passport application?",
+      "answer": "You can track the status of your passport application online through the official government website or by contacting our office. We also offer tracking services for expedited applications."
     }
-   
   ]
+  
+]

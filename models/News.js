@@ -3,19 +3,19 @@ import mongoose from 'mongoose';
 const newsSchema = new mongoose.Schema({
     adtype: {
         type: String,
-        required: true,
+       
     },
     language: {
         type: String,
-        required: true,
+        
     },
-    mobileNo: {
+    mobileno: {
         type: String,
-        required: true,
+        
     },
     content:{
         type:String,
-        required:true,
+        
     },
     document: {
         filename: String,

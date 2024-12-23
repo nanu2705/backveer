@@ -31,7 +31,7 @@ app.use(bodyParser.json());
 
 
 app.post('/news', upload.single("document"), async (req, res) => {
-  const { adtype, language, mobileNo, content } = req.body;
+  const { adtype, language, mobileno, content } = req.body;
 
   
   if (!req.file) {
@@ -45,7 +45,7 @@ app.post('/news', upload.single("document"), async (req, res) => {
     const news = await News.create({
       adtype,   
       language,
-      mobileNo,
+      mobileno,
       content,
       document: {
         filename: document.filename,

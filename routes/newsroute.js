@@ -38,7 +38,6 @@ app.post('/news',  async (req, res) => {
     return res.status(400).json({ success: false, error: "No file uploaded" });
   }
 
-  // const document = req.file; 
 
   try {
   
@@ -47,11 +46,7 @@ app.post('/news',  async (req, res) => {
       language,
       mobileno,
       content,
-      // document: {
-      //   filename: document.filename,
-      //   path: `/uploads/${document.filename}`, 
-      //   size: document.size,
-      // },
+     
     });
 
     console.log(news);

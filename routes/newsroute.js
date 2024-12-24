@@ -9,22 +9,7 @@ import fs from "fs";
 const app = express();
 
 
-const storage = multer.diskStorage({
-  destination: function (req, file, cb) {
-    cb(null, "uploads/");
-  },
-  filename: function (req, file, cb) {
-    cb(null, Date.now() + path.extname(file.originalname)); // Use the current timestamp as the filename
-  },
-});
 
-const upload = multer({ storage: storage });
-
-
-const uploadDir = 'uploads/';
-if (!fs.existsSync(uploadDir)) {
-  fs.mkdirSync(uploadDir);
-}
 
 app.use(cors());
 app.use(bodyParser.json());

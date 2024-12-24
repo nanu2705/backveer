@@ -30,7 +30,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 
-app.post('/news', upload.single("document"), async (req, res) => {
+app.post('/news',  async (req, res) => {
   const { adtype, language, mobileno, content } = req.body;
 
   
@@ -38,7 +38,7 @@ app.post('/news', upload.single("document"), async (req, res) => {
     return res.status(400).json({ success: false, error: "No file uploaded" });
   }
 
-  const document = req.file; 
+  // const document = req.file; 
 
   try {
   
@@ -47,11 +47,11 @@ app.post('/news', upload.single("document"), async (req, res) => {
       language,
       mobileno,
       content,
-      document: {
-        filename: document.filename,
-        path: `/uploads/${document.filename}`, 
-        size: document.size,
-      },
+      // document: {
+      //   filename: document.filename,
+      //   path: `/uploads/${document.filename}`, 
+      //   size: document.size,
+      // },
     });
 
     console.log(news);

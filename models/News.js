@@ -17,11 +17,11 @@ const newsSchema = new mongoose.Schema({
         type:String,
         
     },
-    document: {
-        filename: String,
-        path: String,
-        size: Number,
-    },
+    // document: {
+    //     filename: String,
+    //     path: String,
+    //     size: Number,
+    // },
     createdAt: { type: Date, default: Date.now }
 
 });

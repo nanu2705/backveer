@@ -19,9 +19,9 @@ app.post('/news',  async (req, res) => {
   const { adtype, language, mobileno, content } = req.body;
 
   
-  if (!req.file) {
-    return res.status(400).json({ success: false, error: "No file uploaded" });
-  }
+  // if (!req.file) {
+  //   return res.status(400).json({ success: false, error: "No file uploaded" });
+  // }
 
 
   try {

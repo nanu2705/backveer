@@ -43,7 +43,7 @@ app.post('/news',  async (req, res) => {
   }
 });
 
-app.get('/newses', async (req, res) => {
+app.get('/news', async (req, res) => {
     try {
         const news = await News.find();
         res.json({ news });

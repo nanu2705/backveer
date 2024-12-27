@@ -1306,6 +1306,122 @@
             }                                                                                                      
             
         ]
-    }
+    },
+    {
+        "id": 4,
+        "name": "passport",
+        "title": "Passport",
+
+        
+            "countries": [
+              {
+                "id": 1,
+                "route": "normal-passport",
+                "country": "Normal Passport",
+                "brief": "A normal passport is an essential document for traveling abroad. It is issued by the Government of India to its citizens for international travel and stays. With a normal passport, you can apply for visas, travel to other countries, and access consular services when abroad.",
+                "brief1": "Normal passports are usually issued for a validity of 10 years, allowing citizens to travel freely across most countries with the required visas.",
+                "descrip": "The process of applying for a normal passport involves submitting an online application, paying the prescribed fees, and providing necessary documents. After the submission of the application, applicants will be required to visit the Passport Seva Kendra (PSK) for document verification and biometric data collection. The passport will be dispatched after a successful background check.",
+                "descrip1": "One of the major benefits of the normal passport is that it is valid for long periods (usually 10 years for adults and 5 years for minors), and it allows you to apply for visas for various countries for multiple travel purposes such as tourism, business, or study.",
+                "process_time": [
+                  "Processing of a normal passport usually takes 30 days from the date of application submission.",
+                  "After the submission of all documents and biometrics, you will receive an update regarding the passport's status.",
+                  "In some cases, the passport may be delivered to your registered address or you may be asked to collect it from the Passport Seva Kendra."
+                ],
+                "tips": [
+                  "Make sure all the required documents are valid and up to date.",
+                  "Submit the correct details in the online application form to avoid delays.",
+                  "Track the status of your application through the official Passport Seva portal.",
+                  "In case of an address change, update your details before applying for the passport.",
+                  "Keep your contact details updated to receive timely notifications.",
+                  "If your date of birth is not correct in the passport, it will be corrected within 5 years when you apply for the passport renewal."
+                ],
+                "others": [
+                  {
+                    "id": 1,
+                    "name": "Document Verification",
+                    "content": "Ensure all documents submitted are original and properly attested to avoid delays in processing."
+                  },
+                  {
+                    "id": 2,
+                    "name": "Police Verification",
+                    "content": "For a normal passport, police verification may be required as part of the application process."
+                  },
+                  {
+                    "id": 3,
+                    "name": "Online Application",
+                    "content": "Submit your passport application online and book an appointment for document verification."
+                  },
+                  {
+                    "id": 4,
+                    "name": "Normal Passport Delivery",
+                    "content": "Once the passport is ready, it will be delivered to your registered address or you can pick it up from the Passport Seva Kendra."
+                  }
+                ],
+                "required_documents": [
+                  "Proof of Indian Citizenship (Birth Certificate, Voter ID, etc.)",
+                  "Proof of Address (Aadhar Card, Bank Statement, etc.)",
+                  "Passport-sized Photographs (as per specifications)",
+                  "Online Application Form (filled and submitted)",
+                  "Fee Payment Receipt",
+                  "Police Verification Report (if applicable)"
+                ]
+              },
+              {
+                "id": 2,
+                "route": "tatkal-passport",
+                "country": "Tatkal Passport",
+                "brief": "The Tatkal Passport scheme is designed for individuals who need to obtain their passport urgently. The process under the Tatkal scheme is faster than the normal passport process, with passport issuance usually within 1-3 working days, provided all documentation is in order.",
+                "brief1": "Tatkal passports are issued for 10 years, similar to the normal passport, but with the added advantage of a faster processing time for urgent travel needs.",
+                "descrip": "The Tatkal Passport process involves applying online, paying the Tatkal fees, submitting the necessary documents, and undergoing biometric and document verification. While the process is expedited, applicants still need to meet all the eligibility criteria and provide supporting documents. Additional fees are charged for the Tatkal service.",
+                "descrip1": "One of the major advantages of a Tatkal Passport is the reduced processing time. In emergencies or urgent travel situations, individuals can receive their passport much faster than the regular process. However, applicants should be aware that the Tatkal scheme comes with higher service fees.",
+                "process_time": [
+                  "Processing for Tatkal Passport typically takes 1-3 working days from the date of application submission.",
+                  "If all documents are in order and police verification is not required immediately, the passport can be issued quickly.",
+                  "Once the passport is ready, it can either be delivered to the applicant's address or collected from the Passport Seva Kendra."
+                ],
+                "tips": [
+                  "Ensure you provide correct and valid documents, as discrepancies may lead to delays.",
+                  "Opt for the Tatkal service only if you have an emergency, as the fee is significantly higher.",
+                  "Keep your online application and payment receipts ready before visiting the Passport Seva Kendra.",
+                  "Track your application status online to stay updated on its progress.",
+                  "In case of address change or urgent requirements, update your information well in advance.",
+                  "If your date of birth is not correct in the passport, it will be not be corrected."
+                ],
+                "others": [
+                  {
+                    "id": 1,
+                    "name": "Tatkal Process",
+                    "content": "The Tatkal Passport application process is similar to the normal passport process but requires faster submission and higher fees."
+                  },
+                  {
+                    "id": 2,
+                    "name": "Emergency Travel",
+                    "content": "Tatkal Passport is ideal for those needing immediate travel for reasons such as medical emergencies or family matters."
+                  },
+                  {
+                    "id": 3,
+                    "name": "Additional Charges",
+                    "content": "Tatkal Passport services come with additional charges for urgent processing. Be prepared to pay the premium fee."
+                  },
+                  {
+                    "id": 4,
+                    "name": "Police Verification",
+                    "content": "Police verification is required for Tatkal passports but can sometimes be waived depending on the urgency of the situation."
+                  }
+                ],
+                "required_documents": [
+                  "Proof of Indian Citizenship (Birth Certificate, Voter ID, etc.)",
+                  "Proof of Address (Aadhar Card, Bank Statement, etc.)",
+                  "Passport-sized Photographs (as per specifications)",
+                  "Online Application Form (filled and submitted)",
+                  "Tatkal Fee Payment Receipt",
+                  "Police Verification Report (if applicable)",
+                  "Supporting Documents (if emergency reasons apply, e.g., medical or business travel)"
+                ]
+              }
+            ]
+          }
+          
+    
   
 ]

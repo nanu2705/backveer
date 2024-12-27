@@ -14,6 +14,7 @@ import newsroute from "./routes/newsroute.js"
 import datas from "./routes/Api/data.js"
 import faq from "./routes/Api/faq.js"
 import reviews from "./routes/Api/reviews.js"
+import visadata from "./routes/Api/visadata.js"
 
 
 import path from "path";  
@@ -38,6 +39,7 @@ mongoose
 app.use('/', datas)
 app.use('/',faq)
 app.use('/', reviews)
+app.use('/', visadata)
 app.use('/', contactroute)
 app.use('/', detailroute)
 app.use('/', Inquiryroute)

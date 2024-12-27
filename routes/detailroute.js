@@ -36,7 +36,7 @@ async (req, res) => {
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
-    const { sname, cname, date, email, mobileNo, quantity } = req.body;
+    const { sname, cname, date, email, mobileNo, quantity,address,spouse,placeofIssue} = req.body;
     const photo = req.files.photo[0];
     const passfront = req.files.passfront[0];
     const passback= req.files.passback[0]; 
@@ -51,6 +51,11 @@ async (req, res) => {
             quantity,
             email, 
             mobileNo,
+            address,
+            spouse,
+            placeofIssue,
+            mrzData: req.body.mrzData,
+            mrzbackData: req.body.mrzbackData,
             photo: {
                 filename: photo.filename,
                 path: `/uploads/${photo.filename}`, // Store relative path

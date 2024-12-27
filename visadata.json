@@ -1,0 +1,1311 @@
+[
+    {
+        "id": 1,
+        "name": "student-visa",
+        "title": "Student Visa",
+
+        "countries": [
+            {
+                "id": 1,
+                "route": "usa",
+                "country": "USA",
+                "brief":"With a variety of options to spend and to choose from, USA has been an amazing place for a student to live in. With globally recognized and flexible educational programs, students can actually get something more than they desire. Apart from the academics, a student can also consider the culture and the style of living of the United States.",
+                "brief1":"USA ranks the top for having around 60 percent of the world’s best universities, giving an individual the best options for future.",
+                "descrip":"Another reason to choose to Study in USA is post studies OPT options. OPT Optional Practical Training (OPT) is a period during which undergraduate and graduate students with F-1 status who have completed or have been pursuing their degrees for more than nine months are permitted by the United States Citizenship and Immigration Services (USCIS) to work for at most one year on a student visa towards getting practical training to complement their field of studies. F-1 students are usually permitted a total of 12 months of practical training. Post the 12 months completion, students from STEM background (Science, Technology, Engineering, or Mathematics degree) may also be eligible to apply for up to 24 months extension on OPT.",
+                "descrip1":"When comes to a choice between USA and India for Master’s, undoubtedly, USA stands out. The prime reason for it being so is the salary package offered to a fresher is way above compared to graduates from average B-schools in India. Another reason is, there are scopes of immigration post studies and the pay-scale in the US is far more lucrative than it is in India. In case the person comes back to India, he/she will have more number of opportunities if at all he/she has studies or worked in the US.",
+                "process_time":[
+                     "US visa for Indians is usually processed within 5-7 working days once the interview is cleared in accordance with the embassy requirements. ",
+                     "After your visa interview, your application will undergo processing by the US Embassy or Consulate. Processing times can vary depending on factors such as the volume of applications and individual circumstances. ",
+                     "Once your visa application has been approved, you will receive your passport with the visa stamped inside. In some cases, the passport may have to be collected in person at the visa application centre or delivered to your address via courier service."
+                ],
+                "tips":[
+                   "Start early",
+                   "Right course selection",
+                   "Start preparing yourself for the entrance exams & aim to do well.",
+                   "Sort out your documents and funding requirements",
+                   "Prepare yourself for the interview."
+                ],
+                "others":[
+                    {
+                        "id": 1,
+                        "name": "F1 Process",
+                        "content":"The process of F1 Visa gradually starts with an acceptance in a school. Then comes the interview and through that the student gets the F1 Visa."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content":"The whole planning for the money related documents are to be done at an earliest reference point phase of the procedure."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content":"Here the officer is going to interview you in regards for your decision to go to the United States. Your abilities and potential to sur- vive in the US will be interviewed."
+                    },
+                    {
+                        "id": 4,
+                        "name": "USA Newcomer?",
+                        "content":"Got the Visa? Great! Check out our USA newcomer section to know the vital information on travel and post landing."
+                    }
+
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Form I-20 (Certificate of Eligibility for Nonimmigrant Student Status)",
+                    "DS-160 Form",
+                    "Visa Fee Receipt",
+                    "Photo (as per specifications)",
+                    "Financial Proof",
+                    "Acceptance Letter from Educational Institution",
+                    "TOEFL/IELTS Score Report (if applicable)"
+                ]
+            },
+            {
+                "id": 2,
+                "route": "australia",
+                "country": "Australia",
+                "brief":"The island nation is a favorite student destination in the world. Make the best use of study in Australia by enrolling in courses, institutions, etc.",
+                "brief1":"Australia is a global education powerhouse with fantastic long-term opportunities. The infrastructure, facilities, teaching and networking experience in Australia is second to none.",
+                "descrip":"Australia, one of the most fascinating and highly developed, is the sixth largest country in the world. Endowed with astounding beaches, plenty of wildlife, natural wonders and cosmopolitan conurbations, the country offers some unique experiences that are hard to find somewhere else.",
+                "descrip1":"With a population that originates from more than 200 countries, Australia is the most friendly and accommodating country in the world. The country’s outdoor activities have always encouraged people to come together, be it gathering around a barbeque or at sporting events.",
+                "process_time":[
+                   "The processing time for an Australia visa for Indians is 3-4 weeks post submission. However, processing days will be calculated once all documents have been submitted in accordance with the embassy requirements. "
+               ],
+                "tips":[
+                   "Search the Right Course",
+                   "Arrange College/University Documents",
+                   "Submit College/University with Documents",
+                   "Provide an Offer Letter",
+                   "Study Decision",
+                   "Take Care of Insurance and Tuition Fees",
+                   "Confirmation of Enrolment",
+                   "Apply for a Student Visa",
+                   "Health Insurance Cover is Mandatory",
+                   "Prepare for Student Visa Interview"
+                ],
+                "others":[
+                    {
+                        "id": 1,
+                        "name": "NEW STUDENT VISA",
+                        "content":"Being MARA agents, we can assist you to gather all the documents required to support your student visa application and also represent it to Australian Immigration Department on your behalf."
+                    },
+                    {
+                        "id": 2,
+                        "name": "SCHOLARSHIP",
+                        "content":"Being a strong representative of the major universities of Australia, we can help you save a lot of time knowing the updated scholarship information of different universities."
+                    },
+                    {
+                        "id": 3,
+                        "name": "SWITCH COURSES",
+                        "content":"If you didn't find the course the way you anticipated & are looking to change your course, we can suggest an alternative that is more suitable to your learning abilities & career aspirations."
+                    },
+                    {
+                        "id": 4,
+                        "name": "EXTEND YOUR STAY",
+                        "content":"If you are on a student or holiday visa and your visa is due to expire, we can assist you with the most common options that allows you to extend your stay in Australia."
+                    }
+
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Form I-20 (Certificate of Eligibility for Nonimmigrant Student Status)",
+                    "DS-160 Form",
+                    "Visa Fee Receipt",
+                    "Photo (as per specifications)",
+                    "Financial Proof",
+                    "Acceptance Letter from Educational Institution",
+                    "TOEFL/IELTS Score Report (if applicable)"
+                ]
+            },
+            {
+                "id": 3,
+                "route": "canada",
+                "country": "Canada",
+                "brief":"Canada, a country that features consistently as one of the happiest countries on the planet, has always been popular for its beautiful landscapes and high standard of living.",
+                "brief1":"Every year more than 200,000 international students choose to study in Canada as the inflation rate of the country is low compared to the other countries. The universities of Canada charge low fees than their counterparts whilst maintain excellent education quality.",
+                "descrip":"With world-class cities like Montreal, Toronto, Vancouver, Ottawa and Quebec, the country is also renowned among international students to pursue higher studies. Canadian degrees and credentials are given importance equivalent to the degrees of U.S. and other European countries.",
+                "descrip1":"Canada is renowned for a life outside campus too. Whether the interest lies in exploring nature or wildlife, spending alone time or outdoors, one doesn’t have to cover long distance looking for these activities. From the big skies of prairies to the rugged hills and mesmerising coastline of the Atlantic Provinces to the magnificent Rocky Mountains of Alberta and Niagara Falls, Canada has plethora of natural beauty to offer.",
+                "process_time":[
+                   "The Canada visa processing time is 30 days post submission. "
+               ],
+               "tips":[
+                "Start Early",
+                "Choose the Right Program and Institution",
+                "Prepare for English or French Proficiency Tests",
+                "Understand the G.I.C. Requirement",
+                "Sort Out Accommodation",
+                "Know the Weather",
+                "Health Insurance",
+                "Stay Financially Prepared",
+                "Learn About Work Opportunities",
+                "Embrace Canadian Culture"
+             ],
+                "others":[
+                    {
+                        "id": 1,
+                        "name": "OFFER LETTER",
+                        "content":"Admission process is fairly simple. A Student needs to submit application form, relevant fees and past academic documents along with English proficiency certificate."
+                    },
+                    {
+                        "id": 2,
+                        "name": "G.I.C.",
+                        "content":"You need to purchase a Guaranteed Investment Certificate to fund your living and study expenses for the duration of your stay in Canada."
+                    },
+                    {
+                        "id": 3,
+                        "name": "WORK PERMIT",
+                        "content":"If you want to work in Canada, you must take work permit. It is a written authorisation issued to a person who is not a canadian citizen or permanent resident of Canada."
+                    },
+                    {
+                        "id": 4,
+                        "name": "PATHWAY TO P.R.",
+                        "content":"If you are living in Canada on a temporary visa and wish to stay in the country permanently, we can help you know different visas and programs that can provide you with permanent resident status."
+                    }
+
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Form I-20 (Certificate of Eligibility for Nonimmigrant Student Status)",
+                    "DS-160 Form",
+                    "Visa Fee Receipt",
+                    "Photo (as per specifications)",
+                    "Financial Proof",
+                    "Acceptance Letter from Educational Institution",
+                    "TOEFL/IELTS Score Report (if applicable)"
+                ]
+            },
+            {
+                "id": 4,
+                "route": "united-kingdom",
+                "country": "United Kingdom",
+                "brief":"Academics in the UK are a much sought after pursuit for International students. There is a good reason why. There are tons of advantages attached. Colleges and Universities in UK lead the world in several disciplines. These range from science, engineering, business, management, finance, law, and more.",
+                "brief1":"More than 600,000 international students visit the UK to pursue a variety of programmes. Indians students in the UK constitute one of the fastest-growing nationalities.",
+                "descrip":"As a result, the UK attracts the best international students.",
+                "descrip1":"From April 2018 to March 2019, there was a 40% rise in the number of Indian students granted visas. Also the number of Indians studying in the UK has almost doubled in the last three years (from 2016).",
+                "process_time":[
+                    "The UK visa processing time will be calculated once all documents have been submitted in accordance with the embassy requirements."
+               ],
+                "others":[
+                    {
+                        "id": 1,
+                        "name": "UK STUDENT VISA PROCESS",
+                        "content":"You will need to furnish your passport details, photos, offer letter from the course provider, proof of financial support, etc"
+                    },
+                    {
+                        "id": 2,
+                        "name": "AFFORDABLE PROGRAMS",
+                        "content":"We can introduce you to Universities that offer quality courses at affordable costs and guide you through the whole application process"
+                    },
+                    {
+                        "id": 3,
+                        "name": "WORK PERMIT",
+                        "content":"A 2-year post-study work visa after completion of education helps you start your career in the United Kingdom"
+                    },
+                    {
+                        "id": 4,
+                        "name": "APPLY WITHOUT IELTS*",
+                        "content":"We can help you apply to Universities that have alternative ways of determining your English proficiency"
+                    }
+
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Form I-20 (Certificate of Eligibility for Nonimmigrant Student Status)",
+                    "DS-160 Form",
+                    "Visa Fee Receipt",
+                    "Photo (as per specifications)",
+                    "Financial Proof",
+                    "Acceptance Letter from Educational Institution",
+                    "TOEFL/IELTS Score Report (if applicable)"
+                ]
+            },
+            {
+                "id": 5,
+                "route": "europe",
+                "country": "Europe",
+                "brief": "Europe is a diverse and culturally rich continent, offering world-class education opportunities across various countries. From affordable tuition to research-oriented programs, Europe has become a top choice for international students.",
+                "brief1": "With a blend of historic universities and cutting-edge research institutions, Europe is an educational hub providing unmatched academic and career opportunities.",
+                "descrip": "European countries offer numerous English-taught programs, making them accessible for international students. The Schengen visa simplifies travel across 26 countries, enhancing student experiences with ease of mobility.",
+                "descrip1": "Studying in Europe provides exposure to multiple cultures, languages, and professional networks. Many universities offer scholarships and support for international students, ensuring affordable education.",
+                "process_time": [
+                    "Visa processing for most European countries typically takes 15-30 working days.",
+                    "After submitting your application, it is reviewed by the relevant embassy or consulate. Ensure that all required documents are accurate and complete.",
+                    "Once approved, your passport will be stamped with a Schengen visa or national student visa, depending on the country."
+                ],
+                "tips": [
+                    "Research the best country and program for your career aspirations.",
+                    "Prepare for language proficiency tests if required.",
+                    "Start the visa process early to avoid delays.",
+                    "Explore scholarships and funding opportunities.",
+                    "Understand cultural differences and adapt accordingly."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Erasmus+ Program",
+                        "content": "Europe offers the Erasmus+ program, allowing students to study in multiple countries under a single program."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Cultural Immersion",
+                        "content": "Studying in Europe provides an opportunity to explore diverse cultures, cuisines, and historic landmarks."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Part-Time Work",
+                        "content": "International students can work part-time during their studies, gaining valuable experience and financial support."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Schengen Visa Benefits",
+                        "content": "A Schengen visa allows students to travel freely across 26 European countries, enhancing their academic and personal experiences."
+                    }
+                ],
+                "required_documents": [
+                    "Valid passport",
+                    "University acceptance letter",
+                    "Proof of financial means (bank statements or sponsorship letters)",
+                    "Health insurance coverage",
+                    "Visa application form",
+                    "Proof of accommodation",
+                    "Language proficiency certificates (if applicable)"
+                ]
+            },
+            {
+                "id": 6,
+                "route": "france",
+                "country": "France",
+                "brief": "France offers a blend of rich culture, history, and a world-class education system. It is a hub for art, fashion, and technology, attracting students from across the globe.",
+                "brief1": "France is home to top-ranking universities and institutions offering affordable tuition fees and excellent opportunities for personal and professional growth.",
+                "descrip": "France provides an array of English-taught programs, making it accessible for international students. Additionally, the French government and universities offer scholarships and funding options to ease financial burdens.",
+                "descrip1": "Studying in France allows students to immerse themselves in European culture while enjoying access to one of the world's best healthcare systems and post-study work opportunities.",
+                "process_time": [
+                    "Visa processing for France typically takes 15-20 working days.",
+                    "Once your application is submitted, it undergoes verification at the French Consulate. The processing time may vary based on the volume of applications.",
+                    "After visa approval, your passport will be returned with the visa stamped inside. Ensure all documents are accurately prepared to avoid delays."
+                ],
+                "tips": [
+                    "Learn basic French for smoother communication.",
+                    "Research the university and its location thoroughly.",
+                    "Prepare the required financial documents and ensure adequate funding.",
+                    "Understand the visa application process and start early.",
+                    "Familiarize yourself with French culture and customs."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Campus France",
+                        "content": "Campus France assists international students with choosing programs and navigating the visa process for studying in France."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Housing Assistance",
+                        "content": "The French government offers housing assistance (CAF) for international students. Be sure to apply after arriving in France."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Work While Studying",
+                        "content": "International students in France can work up to 964 hours per year, offering financial support alongside studies."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Post-Study Work",
+                        "content": "France offers a two-year work visa for international graduates from select programs."
+                    }
+                ],
+                "required_documents": [
+                    "Valid passport",
+                    "Proof of acceptance from a French institution",
+                    "Proof of financial support",
+                    "Visa application form",
+                    "Proof of accommodation in France",
+                    "Health insurance documents",
+                    "Language proficiency certificates (if applicable)"
+                ]
+            },
+            {
+                "id": 7,
+                "route": "germany",
+                "country": "Germany",
+                "brief": "Germany is renowned for its high-quality education system, especially in engineering and technology fields. Most public universities offer free or low-cost tuition for international students.",
+                "brief1": "Germany ranks among the top destinations for international students due to its cutting-edge research facilities and strong industry connections.",
+                "descrip": "Germany offers excellent post-study work opportunities, with an 18-month job search visa for graduates. Additionally, its focus on innovation and research makes it an ideal destination for aspiring professionals.",
+                "descrip1": "Life in Germany is enriched by its efficient public transportation system, vibrant cultural scene, and high standards of living. Students benefit from various scholarships and internships while studying.",
+                "process_time": [
+                    "Student visa processing for Germany usually takes 4-12 weeks.",
+                    "The application is submitted to the German Consulate or Embassy, where it undergoes thorough verification.",
+                    "After approval, you will receive your visa stamped passport, allowing you to travel and study in Germany."
+                ],
+                "tips": [
+                    "Start learning German for everyday communication and to expand job opportunities.",
+                    "Understand the blocked account process for proof of funds.",
+                    "Research programs that align with your career goals.",
+                    "Apply for accommodation early, as student housing can be limited.",
+                    "Familiarize yourself with the German visa process and required documents."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Blocked Account",
+                        "content": "International students need to open a blocked account (Sperrkonto) to show proof of sufficient funds for living expenses."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Health Insurance",
+                        "content": "Health insurance is mandatory in Germany. Students can opt for public or private health insurance plans."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Work While Studying",
+                        "content": "Students can work up to 120 full or 240 half days per year, helping them gain work experience while studying."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Blue Card Option",
+                        "content": "After graduation, students can apply for a European Blue Card for long-term residency and work opportunities in Germany."
+                    }
+                ],
+                "required_documents": [
+                    "Valid passport",
+                    "Proof of university admission",
+                    "Proof of financial resources (Blocked Account confirmation)",
+                    "Completed visa application form",
+                    "Health insurance coverage",
+                    "Academic transcripts and certificates",
+                    "Language proficiency certificates (if required)"
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "name": "work-visa",
+        "title": "Work Visa",
+
+        "countries": [
+            {
+                "id": 1,
+                "route": "usa",
+                "country": "USA",
+                "brief": "The USA is a popular destination for work opportunities, attracting skilled professionals from all over the world. With an array of industries ranging from technology to healthcare, the country offers a diverse range of employment prospects.",
+                "brief1": "With a thriving job market and high wages, the USA remains a top choice for skilled workers. The country has specific work visa options, such as the H-1B visa for specialized occupations and the L-1 visa for intracompany transferees, among others.",
+                "descrip": "To work in the USA, foreign nationals need a work visa. The most common work visa is the H-1B visa, which is designed for individuals in specialty occupations. Employers must sponsor the visa application, and the employee must meet certain educational and professional requirements. Other work visas include the L-1 visa for individuals transferring within a company, and the O-1 visa for individuals with extraordinary skills. Work visa holders can also bring their families to live with them in the USA.",
+                "descrip1": "A work visa allows foreign nationals to live and work in the USA temporarily. After gaining work experience in the country, individuals may be eligible for permanent residency or a green card, depending on their employment and visa category.",
+                "process_time": [
+                    "H-1B visa processing times typically range from 3 to 6 months, depending on the petitioner's situation and USCIS workload.",
+                    "L-1 visa processing times may vary from a few weeks to a few months, depending on the type of L-1 visa and whether premium processing is used.",
+                    "O-1 visa processing times usually take between 2 to 3 months."
+                ],
+                "tips": [
+                    "Ensure you meet the eligibility requirements for the specific work visa category.",
+                    "Prepare all required documents, including educational qualifications, work experience, and job offer details.",
+                    "Work with your employer to ensure the petition is submitted correctly and on time.",
+                    "Consider using premium processing if you need faster processing times.",
+                    "Consult with an immigration lawyer to understand the nuances of your specific case."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "H-1B Process",
+                        "content": "The H-1B visa allows skilled workers to work in specialty occupations in the USA. The employer must sponsor the application, and the worker must meet the necessary qualifications."
+                    },
+                    {
+                        "id": 2,
+                        "name": "L-1 Process",
+                        "content": "The L-1 visa is for employees of international companies who are transferring to a U.S. office, branch, or affiliate. The L-1 visa can be used for both executives and specialized knowledge workers."
+                    },
+                    {
+                        "id": 3,
+                        "name": "O-1 Process",
+                        "content": "The O-1 visa is for individuals who have extraordinary abilities in their field, such as arts, sciences, education, business, or athletics. The applicant must demonstrate their achievements and recognition in their field."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Permanent Residency",
+                        "content": "After working in the USA on a work visa, some individuals may apply for permanent residency through employer sponsorship or the EB-1, EB-2, or EB-3 categories."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Job offer letter from a U.S. employer",
+                    "Form I-129 (Petition for a Nonimmigrant Worker)",
+                    "Labor Condition Application (LCA) (for H-1B visa)",
+                    "Proof of educational qualifications",
+                    "Proof of work experience (if applicable)",
+                    "Resume/Curriculum Vitae",
+                    "Visa Fee Receipt",
+                    "Photo (as per specifications)"
+                ]
+            },
+            {
+                "id": 2,
+                "route": "canada",
+                "country": "Canada",
+                "brief": "Canada is one of the top destinations for foreign professionals due to its high quality of life, friendly immigration policies, and abundant work opportunities. The country welcomes skilled workers through various work visa programs, including the Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP).",
+                "brief1": "Canada offers a range of work visas for professionals, technicians, and skilled workers from all over the world. Whether you’re seeking a temporary job or a permanent work opportunity, Canada’s immigration system can accommodate your needs.",
+                "descrip": "To work in Canada, you typically need a work permit. There are two types of work permits: Employer-specific work permits, where you can work for one employer, and Open work permits, which allow you to work for any employer in Canada. Depending on the type of work you do, you may also be eligible to apply for permanent residency after working in Canada for a period of time.",
+                "descrip1": "Canada also has the Express Entry program for skilled workers, which allows individuals to apply for permanent residency while simultaneously securing a work visa. This program is ideal for workers in high-demand professions, such as those in technology, healthcare, and skilled trades.",
+                "process_time": [
+                    "The processing time for a Canada work visa generally ranges from 2 to 4 weeks, depending on the applicant’s country of residence and the specific work permit category.",
+                    "If you apply through the Express Entry system for permanent residency with a job offer, processing times can take around 6 months or longer.",
+                    "In some cases, work visa processing can take longer due to additional checks or documentation requirements."
+                ],
+                "tips": [
+                    "Ensure that you meet the job qualifications and have a valid job offer from a Canadian employer.",
+                    "Consider using the Express Entry system to apply for permanent residency if you're looking for a long-term stay.",
+                    "Verify that the employer has obtained a Labour Market Impact Assessment (LMIA) if required for the specific work permit.",
+                    "Keep all your documents up to date and make sure you have valid health insurance while working in Canada.",
+                    "Be prepared for a potential medical exam or police background check as part of the visa application process."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Employer-Specific Work Permit",
+                        "content": "This type of work permit allows you to work for a specific employer in Canada. Your employer must provide a valid job offer and a positive LMIA in most cases."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Open Work Permit",
+                        "content": "An open work permit allows you to work for any employer in Canada. It’s typically available to spouses of skilled workers or international students and to those with certain work experience."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Labour Market Impact Assessment (LMIA)",
+                        "content": "An LMIA is a document that an employer in Canada may need to obtain before hiring a foreign worker. It proves that no Canadian citizen or permanent resident is available to do the job."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Permanent Residency through Work",
+                        "content": "After working in Canada for a specific period under a work permit, you may be eligible to apply for permanent residency through programs such as the Express Entry system or Provincial Nominee Programs (PNPs)."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Job offer letter from a Canadian employer",
+                    "Labour Market Impact Assessment (if applicable)",
+                    "Proof of work experience and qualifications",
+                    "Proof of sufficient funds to support yourself during your stay in Canada",
+                    "Photo (as per specifications)",
+                    "Visa application form",
+                    "Health insurance coverage (if required)",
+                    "Police certificate (if required)"
+                ]
+            },
+            {
+                "id": 3,
+                "route": "uk",
+                "country": "United Kingdom",
+                "brief": "The UK offers a variety of work visas to skilled professionals, including the Skilled Worker Visa and Global Talent Visa. With its vibrant job market, top employers, and cultural diversity, the UK is a prime destination for professionals seeking new opportunities.",
+                "brief1": "The UK also has a wide range of work options across industries like finance, technology, healthcare, and engineering. Work visa holders may also be eligible to bring their family members and eventually apply for settlement.",
+                "descrip": "To work in the UK, you need a valid job offer from a licensed sponsor employer. The Skilled Worker Visa allows you to work in the UK for a job that requires specific skills, while the Global Talent Visa is for those with exceptional talent in sectors like science, technology, and the arts.",
+                "descrip1": "The UK offers various pathways for skilled professionals to work and settle in the country, including options for family reunification, and a possibility to transition to permanent residency.",
+                "process_time": [
+                    "The processing time for a UK work visa is usually around 8 weeks, but can vary depending on the specific visa category and individual circumstances.",
+                    "If applying for a Skilled Worker Visa, processing can take up to 3 months. For the Global Talent Visa, it may take up to 8 weeks depending on the application type."
+                ],
+                "tips": [
+                    "Ensure your job offer is from a registered sponsor and meets the eligibility requirements.",
+                    "Provide all required documentation, including proof of financial support and English proficiency.",
+                    "Explore pathways to settlement or permanent residency after a few years of work in the UK.",
+                    "Stay updated on immigration rules, as the UK frequently changes visa categories and requirements."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Skilled Worker Visa",
+                        "content": "This visa allows you to work in the UK for an approved employer in an eligible job. It requires a job offer and a certificate of sponsorship from a UK employer."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Global Talent Visa",
+                        "content": "The Global Talent Visa allows highly skilled individuals in science, technology, arts, and other sectors to work in the UK. This visa does not require a job offer, but you must be endorsed by an approved organization."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Tier 2 (Intra-Company Transfer) Visa",
+                        "content": "This visa is for employees of multinational companies who are being transferred to a UK branch to fill a specific role."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Permanent Residency",
+                        "content": "After working in the UK on a valid work visa for 5 years, you may be eligible to apply for Indefinite Leave to Remain (ILR), which grants permanent residency."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Certificate of Sponsorship from your employer",
+                    "Proof of English proficiency",
+                    "Proof of sufficient funds",
+                    "Job offer letter",
+                    "Visa application form",
+                    "Health and character documentation"
+                ]
+            },
+            {
+                "id": 4,
+                "route": "australia",
+                "country": "Australia",
+                "brief": "Australia offers a range of work visa options through the General Skilled Migration (GSM) program. Popular visa categories include the Temporary Skill Shortage Visa (TSS), Skilled Independent Visa, and Employer Nomination Scheme.",
+                "brief1": "Australia’s robust economy, excellent work-life balance, and high living standards make it an attractive destination for skilled workers in sectors like IT, healthcare, engineering, and trades.",
+                "descrip": "To work in Australia, you typically need a work visa. The Temporary Skill Shortage (TSS) Visa is for skilled workers who have been sponsored by an Australian employer. For independent skilled workers, the Skilled Independent Visa (subclass 189) allows workers to live and work anywhere in Australia.",
+                "descrip1": "Australia’s immigration system also allows for pathways to permanent residency for skilled workers who meet certain criteria, such as language proficiency, work experience, and education.",
+                "process_time": [
+                    "The processing time for a work visa in Australia can range from 6 to 12 months, depending on the specific visa category and the applicant’s circumstances.",
+                    "The TSS Visa usually takes about 3 to 4 months, while the Skilled Independent Visa may take longer depending on the points system."
+                ],
+                "tips": [
+                    "Ensure your job is listed on Australia's Skilled Occupation List (SOL) for eligibility.",
+                    "Gather all necessary documentation, including English language proficiency and skills assessments.",
+                    "Consider applying for permanent residency once you have gained relevant work experience in Australia.",
+                    "If you are applying for an employer-sponsored visa, ensure the employer is registered to sponsor workers."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Temporary Skill Shortage (TSS) Visa",
+                        "content": "This visa allows skilled workers to come to Australia and work for an employer in an approved occupation for up to 4 years."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Skilled Independent Visa",
+                        "content": "This visa is for workers who are not sponsored by an employer, family member, or state. It is based on a points system that evaluates your qualifications, work experience, and language skills."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Employer Nomination Scheme",
+                        "content": "The Employer Nomination Scheme allows employers to sponsor foreign workers for permanent residency in Australia."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Permanent Residency",
+                        "content": "After working in Australia on a valid work visa for a few years, you may be eligible to apply for permanent residency through various pathways."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Job offer letter from an Australian employer",
+                    "Skills assessment and qualifications",
+                    "English language proficiency test results (IELTS, PTE, etc.)",
+                    "Proof of work experience",
+                    "Health and character requirements"
+                ]
+            },
+            {
+                "id": 5,
+                "route": "europe",
+                "country": "Europe (EU)",
+                "brief": "The European Union offers various work visa options for skilled workers, including the EU Blue Card, which allows highly skilled non-EU citizens to work and live in any EU country.",
+                "brief1": "Many EU countries also have national visa programs tailored to specific needs in sectors such as engineering, healthcare, and technology.",
+                "descrip": "To work in the EU, individuals must generally have a job offer from an employer in an EU country. The EU Blue Card is a popular route for skilled workers in professions such as IT, healthcare, and engineering.",
+                "descrip1": "Several EU countries also offer work visas for specific professions or as part of bilateral agreements with non-EU countries. These visas typically require proof of employment and qualifications.",
+                "process_time": [
+                    "EU work visa processing times typically take between 2 to 3 months, depending on the specific country and visa category.",
+                    "For the EU Blue Card, processing time can vary from 2 weeks to 2 months, depending on the country where you apply."
+                ],
+                "tips": [
+                    "Check the specific requirements for each EU country as work visa rules may vary.",
+                    "Ensure that your job is listed in the national or EU-wide occupation lists.",
+                    "Consider learning the local language to increase your chances of getting hired and to settle in easier.",
+                    "Work visas in the EU often lead to permanent residency after a few years of continuous employment."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "EU Blue Card",
+                        "content": "The EU Blue Card is a work and residence permit for highly skilled workers from non-EU countries. It allows you to work in the EU and move between countries after a few years."
+                    },
+                    {
+                        "id": 2,
+                        "name": "National Work Visa",
+                        "content": "Many EU countries offer national work visas that cater to specific professions or industries. These visas are often easier to apply for than the EU Blue Card."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Intra-Company Transfer Visa",
+                        "content": "This visa allows employees of multinational companies to be transferred to their company’s EU branches."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Permanent Residency",
+                        "content": "EU work visas often lead to the possibility of permanent residency after a few years of employment, depending on the country."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Job offer letter from an employer in the EU",
+                    "Proof of qualifications and work experience",
+                    "Proof of financial stability",
+                    "Health insurance",
+                    "Visa application form"
+                ]
+            },            
+            {
+                "id": 6,
+                "route": "france",
+                "country": "France",
+                "brief": "France is one of the top destinations for skilled workers, offering various work visa options such as the Talent Passport Visa and the French Work Visa for professionals in fields like IT, healthcare, and engineering.",
+                "brief1": "The French work visa system is designed to attract skilled professionals to contribute to the country’s labor force, with pathways to permanent residency after working for several years.",
+                "descrip": "France offers work visas for skilled workers through programs like the Talent Passport, which is aimed at highly skilled individuals. You can apply for this visa if you have an employment contract with a French employer.",
+                "descrip1": "Additionally, professionals in certain fields can apply for a French work visa under the European Union Blue Card scheme. France also allows you to transition to permanent residency after a few years of work.",
+                "process_time": [
+                    "The processing time for a French work visa usually takes between 1 and 3 months depending on the specific type of work visa.",
+                    "For the Talent Passport Visa, processing times can be around 2 months."
+                ],
+                "tips": [
+                    "Ensure that your job is listed on France’s eligible occupation list.",
+                    "Check whether your employer is registered with the French authorities to sponsor foreign workers.",
+                    "Consider learning French, as it can improve your chances of securing a job in France."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Talent Passport Visa",
+                        "content": "This visa allows skilled professionals to live and work in France. It is for highly qualified workers in sectors like engineering, arts, and healthcare."
+                    },
+                    {
+                        "id": 2,
+                        "name": "French Work Visa for Professionals",
+                        "content": "This visa is for skilled workers with an employment contract in France. It allows you to live and work in France for up to 1 year."
+                    },
+                    {
+                        "id": 3,
+                        "name": "EU Blue Card",
+                        "content": "The EU Blue Card for skilled workers allows professionals from outside the EU to work and live in France and other EU countries."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Permanent Residency",
+                        "content": "After working in France for a number of years on a valid work visa, you may be eligible for permanent residency and citizenship."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Job offer letter from a French employer",
+                    "Proof of qualifications and work experience",
+                    "Health insurance",
+                    "Proof of financial stability",
+                    "Visa application form"
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id": 3,
+        "name": "tourist-visa",
+        "title": "Tourist Visa",
+
+        "countries": [
+            {
+                "id": 1,
+                "route": "usa",
+                "country": "USA",
+                "brief": "The USA is a top destination for tourism, offering a wide range of attractions, cultural experiences, and natural wonders. From iconic landmarks like the Statue of Liberty to beautiful national parks such as Yellowstone, tourists can enjoy diverse experiences in the USA.",
+                "brief1": "With bustling cities, world-class museums, stunning landscapes, and vibrant cultural scenes, the USA remains a favorite destination for travelers seeking adventure and relaxation alike.",
+                "descrip": "The B-2 Tourist Visa is intended for individuals who wish to visit the United States for tourism, including vacations, visits to family or friends, medical treatment, or participation in social events. Applicants must show proof of their intent to return to their home country after their visit.",
+                "descrip1": "Visitors under the B-2 visa can stay for up to 6 months. Extensions are possible in certain cases. The B-2 visa is a non-immigrant visa, which means applicants must demonstrate strong ties to their home country and an intention to return.",
+                "process_time": [
+                    "The processing time for a US tourist visa can take between 3 to 5 weeks, depending on the volume of applications and the applicant's specific circumstances.",
+                    "Once the interview is cleared, the visa processing typically takes 3-5 business days, but the total wait time may vary."
+                ],
+                "tips": [
+                    "Apply well in advance of your planned travel dates.",
+                    "Ensure you have strong evidence of ties to your home country (such as employment, family, or property).",
+                    "Be prepared to explain your travel plans and why you intend to return home after your visit.",
+                    "Make sure your passport is valid for at least 6 months from the date of entry to the USA.",
+                    "Prepare all necessary documents, including financial proof and your travel itinerary."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "B-2 Tourist Visa Process",
+                        "content": "The process for obtaining a B-2 visa involves filling out the DS-160 form, scheduling a visa interview, and providing supporting documents like financial proof, a travel itinerary, and evidence of ties to your home country."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You must prove that you have sufficient funds to cover your expenses during your stay in the USA. This can include bank statements, pay slips, or sponsorship letters."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "During the visa interview, you will be asked questions about your trip, your plans in the USA, and your intent to return to your home country. Be honest and prepared with your answers."
+                    },
+                    {
+                        "id": 4,
+                        "name": "USA Newcomer?",
+                        "content": "Once you have received your tourist visa, make sure to check out important travel information, including customs regulations, entry procedures, and tips for your stay in the USA."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "DS-160 Form (Online Visa Application)",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Evidence of Ties to Home Country (employment, property ownership, family)",
+                    "Letter of Invitation (if visiting family or friends)"
+                ]
+            },
+            {
+                "id": 2,
+                "route": "canada",
+                "country": "Canada",
+                "brief": "Canada offers stunning landscapes, multicultural cities, and unique wildlife. Tourists flock to Canada for its natural beauty, including Banff National Park, Niagara Falls, and vibrant cities like Toronto and Vancouver.",
+                "brief1": "From the wilderness of the Rockies to the urban charm of Montreal, Canada is a diverse and welcoming destination for international tourists.",
+                "descrip": "The Canada Tourist Visa (Visitor Visa) allows you to visit family, friends, or explore the country as a tourist. The visa is generally valid for six months, with extensions possible in certain circumstances.",
+                "descrip1": "Visitors must prove their intent to return to their home country after their trip and provide evidence of sufficient funds to cover their stay in Canada.",
+                "process_time": [
+                    "Canada tourist visa processing usually takes about 20 to 30 days after submission of the application.",
+                    "The total processing time may vary depending on factors such as the location of the applicant and additional documentation required."
+                ],
+                "tips": [
+                    "Apply well in advance to avoid delays.",
+                    "Provide evidence of financial support, such as bank statements or sponsor letters.",
+                    "Demonstrate ties to your home country, such as a job, family, or property.",
+                    "Ensure you have travel health insurance for your trip.",
+                    "Prepare your travel itinerary and accommodation details."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Visitor Visa Process",
+                        "content": "The application process for a Canada Visitor Visa includes submitting an online application, paying the visa fee, and providing necessary documents such as proof of funds, travel itinerary, and a valid passport."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You must prove that you have enough funds to cover your stay in Canada. This can be in the form of bank statements, pay slips, or a sponsorship letter."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "Some applicants may be required to attend an interview to further discuss their travel plans and ties to their home country."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Canada Newcomer?",
+                        "content": "Once your tourist visa is granted, review important guidelines on customs regulations, entry procedures, and travel tips for tourists in Canada."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Visitor Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Letter of Invitation (if visiting family or friends)"
+                ]
+            }, 
+            {
+                "id": 3,
+                "route": "uk",
+                "country": "UK",
+                "brief": "The UK is a rich cultural destination, known for its historical landmarks, vibrant cities, and cultural heritage. From the Tower of London to Buckingham Palace, the UK is a must-see for history and culture lovers.",
+                "brief1": "Whether you're visiting for sightseeing, family visits, or attending events, the UK offers a wide range of activities for tourists.",
+                "descrip": "The UK Visitor Visa allows individuals to visit the UK for tourism purposes for up to six months. You must show that you will leave the UK at the end of your visit and that you have enough money to support yourself.",
+                "descrip1": "Visitors must provide proof of their travel plans and sufficient financial resources for their stay.",
+                "process_time": [
+                    "The processing time for a UK tourist visa is usually around 3 weeks after submission of the application.",
+                    "Processing times can vary depending on the applicant's circumstances and location."
+                ],
+                "tips": [
+                    "Apply for your visa well in advance, ideally 2-3 months before your planned travel.",
+                    "Have a solid travel itinerary and provide accommodation details.",
+                    "Ensure your passport is valid for at least six months from your travel date.",
+                    "Provide evidence of financial stability, such as bank statements or pay slips.",
+                    "Be prepared for an interview if requested by the embassy."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Visitor Visa Process",
+                        "content": "The application process involves submitting an online application, attending a visa interview (if applicable), and providing documentation such as proof of funds and travel plans."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You will need to show proof that you have sufficient funds to cover the costs of your stay in the UK, including accommodation, meals, and travel."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "An interview may be required for certain applicants, where you will discuss your travel plans and reasons for visiting the UK."
+                    },
+                    {
+                        "id": 4,
+                        "name": "UK Newcomer?",
+                        "content": "Once your visa is granted, check out useful tips on entry procedures and customs regulations when traveling to the UK."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Accommodation Details"
+                ]
+            },
+            {
+                "id": 4,
+                "route": "australia",
+                "country": "Australia",
+                "brief": "Australia is a vast and beautiful country offering a diverse range of experiences, from the Great Barrier Reef to iconic cities like Sydney and Melbourne. Whether you're into nature, adventure, or culture, Australia has something for everyone.",
+                "brief1": "Tourists can explore Australia's unique wildlife, stunning beaches, and cosmopolitan cities, making it one of the top travel destinations.",
+                "descrip": "The Visitor Visa (subclass 600) allows individuals to visit Australia for tourism for up to 12 months. This visa is for tourists, family visitors, or those traveling for leisure purposes.",
+                "descrip1": "Applicants must show proof of their travel intentions and provide evidence of sufficient funds for their stay.",
+                "process_time": [
+                    "The processing time for an Australian tourist visa is typically between 2 to 4 weeks.",
+                    "Processing times may vary depending on your nationality and individual circumstances."
+                ],
+                "tips": [
+                    "Apply well in advance, as processing times can vary.",
+                    "Prepare a clear travel itinerary and proof of accommodation.",
+                    "Ensure your passport is valid for at least 6 months from your arrival date in Australia.",
+                    "Demonstrate that you have enough funds to cover your stay, including travel, accommodation, and living expenses.",
+                    "Be ready for additional documentation if requested by the Australian Embassy."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Visitor Visa Process",
+                        "content": "The application process for an Australian Visitor Visa involves submitting an online application, paying the visa fee, and providing supporting documents such as proof of funds, travel plans, and a valid passport."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "Applicants must provide evidence of sufficient funds to cover their stay in Australia, including bank statements or sponsorship letters."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "Some applicants may be required to attend an interview to discuss their travel plans and confirm their intention to return to their home country."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Australia Newcomer?",
+                        "content": "Once your visa is granted, check for essential information on entry procedures and customs regulations when you arrive in Australia."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Accommodation Details"
+                ]
+            },
+            {
+                "id": 5,
+                "route": "vietnam",
+                "country": "Vietnam",
+                "brief": "Vietnam is a country rich in history and natural beauty. From the bustling streets of Hanoi to the tranquil beaches of Phu Quoc, tourists come to experience the culture and landscapes that Vietnam offers.",
+                "brief1": "Vietnam is known for its affordable travel options, delicious cuisine, and iconic landmarks like Ha Long Bay and the Mekong Delta.",
+                "descrip": "Vietnam offers a Tourist Visa that allows visitors to stay for up to 30 days. Extensions can be requested for longer stays. The visa is granted to tourists for sightseeing, cultural activities, or leisure purposes.",
+                "descrip1": "To apply, you need to submit necessary documents and prove your intent to return to your home country.",
+                "process_time": [
+                    "Vietnam tourist visa processing typically takes 3-5 business days, depending on your nationality and the visa service used.",
+                    "Processing times may vary based on the embassy and additional documentation required."
+                ],
+                "tips": [
+                    "Make sure your passport is valid for at least 6 months from the intended date of arrival.",
+                    "Provide details of your travel plans, including accommodation and return flights.",
+                    "Check if you need an entry visa or if you are eligible for visa on arrival based on your nationality.",
+                    "Be prepared to provide proof of sufficient funds to support your stay in Vietnam.",
+                    "Apply in advance to avoid last-minute rush."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "To obtain a Vietnam Tourist Visa, you need to complete the visa application, pay the visa fee, and submit required documents such as your passport and travel details."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You must show proof of sufficient funds to cover your stay, such as bank statements or a sponsorship letter."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Vietnam Newcomer?",
+                        "content": "Once your visa is granted, check for details about entry procedures and customs regulations in Vietnam."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support",
+                    "Hotel Reservation/Accommodation Details"
+                ]
+            },
+            {
+                "id": 6,
+                "route": "france",
+                "country": "France",
+                "brief": "France, known for its rich culture, historical landmarks, and world-class cuisine, is a top destination for tourists. Visitors flock to see iconic sites such as the Eiffel Tower, Louvre Museum, and the beautiful French Riviera.",
+                "brief1": "France offers a blend of history, art, and stunning landscapes, making it an ideal destination for cultural exploration and leisure travel.",
+                "descrip": "The France Schengen Tourist Visa allows tourists to stay in France and other Schengen countries for up to 90 days within a 180-day period. The visa is typically granted for short stays for tourism, business, or family visits.",
+                "descrip1": "Tourists must provide proof of sufficient financial resources and strong ties to their home country to ensure they return after their visit.",
+                "process_time": [
+                    "The processing time for a France tourist visa typically takes 15 calendar days after submission of the application.",
+                    "Delays can occur based on factors such as the volume of applications or additional documents needed."
+                ],
+                "tips": [
+                    "Apply for your visa well in advance (at least 3 weeks before travel).",
+                    "Ensure that your passport is valid for at least 3 months after your planned departure from France.",
+                    "Provide a detailed travel itinerary and proof of accommodation.",
+                    "Have travel health insurance to cover potential medical expenses while in France.",
+                    "Demonstrate sufficient financial means to support yourself during the stay."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "The process involves submitting an online application, paying the visa fee, attending an interview if required, and providing supporting documents like proof of funds and travel plans."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You must provide proof of sufficient financial resources to cover your stay in France, such as bank statements, sponsorship letters, or employment details."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "Some applicants may need to attend an interview at the French consulate or embassy, where you will explain the purpose of your trip."
+                    },
+                    {
+                        "id": 4,
+                        "name": "France Newcomer?",
+                        "content": "Once your visa is granted, make sure to check entry requirements, customs regulations, and transport options when arriving in France."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 3 months from planned departure date)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Accommodation Details"
+                ]
+            },
+            {
+                "id": 7,
+                "route": "uae",
+                "country": "UAE",
+                "brief": "The UAE is a blend of modernity and tradition, with stunning skyscrapers in Dubai, world-famous shopping malls, and the pristine beaches of Abu Dhabi. It is one of the most sought-after destinations for tourists.",
+                "brief1": "Explore the luxurious lifestyle, desert safaris, vibrant nightlife, and unique cultural experiences that the UAE has to offer.",
+                "descrip": "The UAE Tourist Visa allows visitors to stay for up to 30 days for tourism purposes, with the possibility of an extension. This visa is granted for leisure travelers, short business visits, and those visiting family and friends.",
+                "descrip1": "Tourists must show proof of sufficient financial means to cover their stay in the UAE, as well as their return travel plans.",
+                "process_time": [
+                    "The processing time for a UAE tourist visa is usually 3 to 5 business days after submission.",
+                    "Processing may vary depending on the applicant’s nationality, additional documentation required, and embassy workload."
+                ],
+                "tips": [
+                    "Apply for your visa at least 2-3 weeks before travel.",
+                    "Ensure your passport is valid for at least 6 months from the intended date of arrival in the UAE.",
+                    "Have a clear travel itinerary, including flight and hotel bookings.",
+                    "Provide proof of financial support, such as bank statements or sponsor letters.",
+                    "Check the specific requirements depending on your nationality and visa type."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "To obtain a UAE tourist visa, submit an online application, pay the visa fee, and provide supporting documents such as proof of accommodation and travel plans."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "Provide evidence of sufficient funds for your stay in the UAE, such as bank statements, sponsorship letters, or proof of employment."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "An interview may be required in some cases. Be prepared to explain the purpose of your visit and your ties to your home country."
+                    },
+                    {
+                        "id": 4,
+                        "name": "UAE Newcomer?",
+                        "content": "Once your tourist visa is granted, review customs regulations, and know what to expect upon entry to the UAE."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Hotel Reservations"
+                ]
+            },
+            {
+                "id": 8,
+                "route": "germany",
+                "country": "Germany",
+                "brief": "Germany, with its rich history, beautiful landscapes, and modern cities, is one of Europe's most popular tourist destinations. Famous for landmarks like the Brandenburg Gate, Neuschwanstein Castle, and the Black Forest.",
+                "brief1": "Germany offers a mix of cultural experiences, scenic beauty, and vibrant cities, making it perfect for history buffs, nature lovers, and adventure seekers.",
+                "descrip": "Germany's Tourist Visa allows travelers to stay for up to 90 days within a 180-day period for tourism purposes. It is a Schengen visa that grants access to multiple European countries.",
+                "descrip1": "Applicants must demonstrate their intent to return to their home country and provide sufficient financial resources for their stay.",
+                "process_time": [
+                    "The processing time for a German tourist visa is typically 15 calendar days after submission of your application.",
+                    "Processing times may vary depending on the consulate and your nationality."
+                ],
+                "tips": [
+                    "Apply for your visa at least 2-3 weeks before your planned travel date.",
+                    "Ensure your passport is valid for at least 3 months after your planned departure from Germany.",
+                    "Provide a detailed travel itinerary and flight bookings.",
+                    "Demonstrate that you have enough funds to cover your stay in Germany, including accommodation and travel expenses.",
+                    "Ensure you have travel health insurance covering potential medical expenses during your stay."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "The application process includes submitting your visa application, paying the visa fee, providing supporting documents, and attending an interview if necessary."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You need to provide evidence of sufficient funds to cover your stay in Germany, including bank statements, pay slips, or a sponsorship letter."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "An interview may be required where you will explain your travel plans and demonstrate that you intend to return to your home country."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Germany Newcomer?",
+                        "content": "After your visa is granted, check for entry regulations, customs procedures, and travel tips for your visit to Germany."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 3 months from planned departure date)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Accommodation Details"
+                ]
+            },
+            {
+                "id": 9,
+                "route": "philippines",
+                "country": "Philippines",
+                "brief": "The Philippines is known for its beautiful beaches, crystal-clear waters, and friendly locals. With over 7,000 islands, it's a perfect getaway for those seeking relaxation, adventure, and cultural experiences.",
+                "brief1": "From the stunning white sand beaches of Boracay to the historical sites in Manila, the Philippines offers something for every traveler.",
+                "descrip": "The Philippines offers a visa-free stay for many nationalities for up to 30 days. For those who are not eligible, a tourist visa is required, which can be extended for an additional 29 days. This visa is for leisure tourism purposes.",
+                "descrip1": "Tourists must show proof of sufficient financial means and return tickets to ensure they do not overstay their visa.",
+                "process_time": [
+                    "Philippines tourist visa applications typically take 7-10 business days to process.",
+                    "Processing time may vary depending on the applicant's nationality and any additional documents required."
+                ],
+                "tips": [
+                    "Ensure your passport is valid for at least 6 months from your planned date of departure.",
+                    "Provide a valid travel itinerary and accommodation details.",
+                    "Demonstrate that you have sufficient financial means for your stay.",
+                    "If you're extending your stay, make sure to apply before your current visa expires.",
+                    "Check specific embassy requirements based on your nationality."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "Submit the application form, pay the visa fee, provide required documents like travel itinerary, accommodation details, and proof of financial means."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "You need to show sufficient funds for your stay, such as recent bank statements or a sponsorship letter."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "In some cases, an interview may be required to assess the purpose of your visit and your financial stability."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Philippines Newcomer?",
+                        "content": "Once your visa is granted, review the entry requirements and customs regulations before your travel."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months from planned departure date)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Accommodation Details"
+                ]
+            },
+            {
+                "id": 10,
+                "route": "thailand",
+                "country": "Thailand",
+                "brief": "Thailand, known for its vibrant culture, stunning temples, and pristine beaches, is a top tourist destination. Whether exploring Bangkok's bustling markets or relaxing in Phuket, there's something for every traveler.",
+                "brief1": "From its rich history to the beautiful beaches of Koh Samui and Krabi, Thailand offers a diverse and exciting travel experience.",
+                "descrip": "Thailand offers a visa exemption for many nationalities for a stay of up to 30 days for tourism purposes. For longer stays, a tourist visa is required, which is typically valid for 60 days and can be extended for an additional 30 days.",
+                "descrip1": "Tourists must prove financial stability and show a return ticket to ensure their visit is for a limited duration.",
+                "process_time": [
+                    "The processing time for a Thailand tourist visa is typically 7-10 business days.",
+                    "Delays may occur depending on the applicant’s nationality and any additional requirements from the embassy."
+                ],
+                "tips": [
+                    "Apply for your visa well in advance (at least 2-3 weeks before travel).",
+                    "Ensure your passport is valid for at least 6 months beyond your planned stay.",
+                    "Provide hotel reservations and a clear travel itinerary.",
+                    "Demonstrate sufficient funds for your stay in Thailand.",
+                    "Check the latest visa policy for your nationality before applying."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "Submit the application form, pay the visa fee, and provide supporting documents such as proof of accommodation, travel itinerary, and financial support."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "Provide evidence of financial means to cover your expenses, such as bank statements or a sponsorship letter."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "In some cases, an interview may be required. Be prepared to discuss your travel plans and reasons for visiting Thailand."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Thailand Newcomer?",
+                        "content": "After your visa is granted, check for any entry restrictions or customs regulations before traveling to Thailand."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months from planned departure date)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Hotel Reservation Details"
+                ]
+            },
+            {
+                "id": 11,
+                "route": "malaysia",
+                "country": "Malaysia",
+                "brief": "Malaysia offers a perfect blend of natural beauty, modern infrastructure, and rich cultural heritage. From the bustling streets of Kuala Lumpur to the tropical islands of Langkawi, Malaysia is a must-visit destination.",
+                "brief1": "Malaysia’s diverse culture, incredible food, and beautiful landscapes make it a fantastic destination for tourists seeking adventure, relaxation, or cultural experiences.",
+                "descrip": "Malaysia offers visa-free entry for citizens of many countries for up to 90 days. For those requiring a visa, the Malaysia Tourist Visa is valid for up to 30 days, and extensions are possible for up to 60 days.",
+                "descrip1": "Tourists need to show proof of sufficient funds and confirm their travel plans to demonstrate the temporary nature of their visit.",
+                "process_time": [
+                    "The processing time for a Malaysian tourist visa is generally around 7-10 business days.",
+                    "Delays may occur depending on the applicant’s nationality and the volume of applications."
+                ],
+                "tips": [
+                    "Apply for your tourist visa well in advance (at least 2-3 weeks before travel).",
+                    "Ensure your passport is valid for at least 6 months from your date of entry into Malaysia.",
+                    "Provide your travel itinerary, accommodation details, and return ticket.",
+                    "Demonstrate sufficient financial support for your stay.",
+                    "Review the latest visa policies for your nationality before applying."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "You will need to submit the visa application form, pay the fee, and provide supporting documents like proof of funds, travel plans, and accommodation details."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "Provide evidence of your ability to support yourself during your stay, including bank statements or a sponsor letter."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "An interview may be required. Be prepared to explain your travel plans and show your ties to your home country."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Malaysia Newcomer?",
+                        "content": "Upon receiving your visa, check entry requirements, customs procedures, and other important travel tips before entering Malaysia."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months from planned departure date)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Hotel Reservation Details"
+                ]
+            },
+            {
+                "id": 12,
+                "route": "singapore",
+                "country": "Singapore",
+                "brief": "Singapore is a global hub for tourism, with its world-class attractions like Marina Bay Sands, Gardens by the Bay, and vibrant multicultural neighborhoods such as Chinatown and Little India.",
+                "brief1": "Known for its cleanliness, modernity, and cultural diversity, Singapore is a top destination for travelers looking for a blend of entertainment, culture, and nature.",
+                "descrip": "Singapore offers a visa-free stay for many nationalities for up to 30 days. For others, a tourist visa is required. The Singapore Tourist Visa is typically valid for up to 30 days.",
+                "descrip1": "Tourists must provide proof of financial stability, return tickets, and accommodation bookings to ensure they adhere to the visa conditions.",
+                "process_time": [
+                    "The processing time for a Singapore tourist visa is usually 3-5 business days.",
+                    "In some cases, processing times may vary depending on the applicant's nationality and the volume of applications."
+                ],
+                "tips": [
+                    "Apply for your visa at least 2-3 weeks in advance.",
+                    "Ensure your passport is valid for at least 6 months from the intended date of arrival.",
+                    "Provide a clear travel itinerary, including hotel bookings and return flights.",
+                    "Show proof of financial means to cover your stay in Singapore.",
+                    "Double-check the latest visa policy based on your nationality."
+                ],
+                "others": [
+                    {
+                        "id": 1,
+                        "name": "Tourist Visa Process",
+                        "content": "Submit the application, pay the visa fee, and provide necessary documents such as passport photos, accommodation details, and proof of funds."
+                    },
+                    {
+                        "id": 2,
+                        "name": "Funding",
+                        "content": "Provide evidence of your financial means for the duration of your stay in Singapore."
+                    },
+                    {
+                        "id": 3,
+                        "name": "Interview",
+                        "content": "An interview may be required in certain cases. Be ready to explain the purpose of your visit and your ties to your home country."
+                    },
+                    {
+                        "id": 4,
+                        "name": "Singapore Newcomer?",
+                        "content": "Upon approval of your visa, review all entry requirements, customs regulations, and other travel essentials."
+                    }
+                ],
+                "required_documents": [
+                    "Passport (valid for at least 6 months from planned departure date)",
+                    "Completed Visa Application Form",
+                    "Visa Fee Receipt",
+                    "Passport-sized Photo (as per specifications)",
+                    "Travel Itinerary",
+                    "Proof of Financial Support (bank statements, pay slips, etc.)",
+                    "Hotel Reservation Details"
+                ]
+            }                                                                                                      
+            
+        ]
+    }
+  
+]

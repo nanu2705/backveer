@@ -23,6 +23,21 @@ const detailSchema = new mongoose.Schema({
         type: String,
        
     },
+    address: {
+        type: String, 
+    },
+    spouse:{
+        type:String,
+    },
+    placeofIssue:{
+        type:String,
+    },
+    mrzData:{
+        type:String,
+    },
+    mrzbackData:{
+        type:String,
+    },
     photo:{
         filename: String,
         path: String,

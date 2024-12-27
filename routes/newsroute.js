@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.post('/news', async (req, res) => {
   const { adtype, language, mobileno, content } = req.body;
 
-  console.log(adtype); // Log the data sent in the request body
+  console.log(adtype); 
 
   try {
     // Save the news in the database

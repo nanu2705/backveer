@@ -9,7 +9,7 @@ const newsSchema = new mongoose.Schema({
         type: String,
         
     },
-    mobileno: {
+    contact: {
         type: String,
         
     },

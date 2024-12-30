@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 // POST route to handle the form data
 app.post('/news', async (req, res) => {
-  const { adtype, language, mobileno, content } = req.body;
+  const { adtype, language, contact, content } = req.body;
 
   console.log(adtype); 
 
@@ -20,7 +20,7 @@ app.post('/news', async (req, res) => {
     const news = await News.create({
       adtype,   
       language,
-      mobileno,
+      contact,
       content,
     });
 

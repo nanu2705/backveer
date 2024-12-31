@@ -25,7 +25,7 @@ app.post('/reviews', async(req, res) => {
 app.get('/reviews', async (req, res) => {
     try {
         const reviews = await Review.find();
-        console.log('Fetched reviews:', reviews);
+   
         res.json({ reviews});
    
     } catch (error) {
